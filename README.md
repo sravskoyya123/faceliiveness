@@ -93,11 +93,6 @@ Test inference speed of the liveness detection model using `liveness_net_speed_c
 - **Inference Speed**: 23ms per frame (NVIDIA T4 GPU)  
 - **ROC-AUC Score**: 0.992  
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
